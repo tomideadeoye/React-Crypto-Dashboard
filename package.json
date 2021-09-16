@@ -1,4 +1,5 @@
 {
+	"homepage": "http://tomideadeoye.github.io/cryptodashboard",
 	"name": "bx-app",
 	"version": "0.1.0",
 	"private": true,
@@ -19,7 +20,6 @@
 		"react-scripts": "3.0.1",
 		"styled-components": "^4.3.2"
 	},
-	"homepage": "http://tomideadeoye.github.io/cryptodashboard",
 	"scripts": {
 		"start": "react-app-rewired start",
 		"build": "react-app-rewired build",
